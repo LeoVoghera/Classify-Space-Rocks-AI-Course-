@@ -1,2 +1,2 @@
-This is part of microsofts "Classify space rocks by using python and AI" Course.
-https://learn.microsoft.com/en-us/training/paths/classify-space-rocks-artificial-intelligence-nasa/
+
+Video: https://www.youtube.com/live/XoHR4p8AO9o?si=K9XkNFEdVHK_0ond
